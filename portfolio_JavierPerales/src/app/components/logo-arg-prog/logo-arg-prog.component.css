@@ -13,6 +13,7 @@ img{
     width: 50px;
 }
 
+
 /*para vista en celular*/
 @media (max-width: 575px){
     .container{

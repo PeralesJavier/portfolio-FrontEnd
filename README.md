@@ -1,28 +1,27 @@
-# Create a new repository on the command line
+# PortfolioJavierPerales
 
-echo "# portfolio-FrontEnd" >> README.md
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
-git init
+## Development server
 
-git add README.md (o un . para agregar lo que haya)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-git commit -m "first commit"
+## Code scaffolding
 
-git branch -M main
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-git remote add origin https://github.com/PeralesJavier/portfolio-FrontEnd.git
+## Build
 
-git push -u origin main
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Running unit tests
 
-# Push an existing repository from the command line
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-git remote add origin https://github.com/PeralesJavier/portfolio-FrontEnd.git
-git branch -M main
+## Running end-to-end tests
 
-git push -u origin main
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-##Esta es una nueva modificacion probando el comando push en git
+## Further help
 
-#Agregando comandos git:
-git ignore
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

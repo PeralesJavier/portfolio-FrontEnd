@@ -4,6 +4,7 @@
 
 div{
     background-color: #353a3f;
+    color: aliceblue;
 }
 #experiencia{
     color: aliceblue;
@@ -11,6 +12,9 @@ div{
 ul{
     color: aliceblue;
 
+}
+td{
+    color: aliceblue;
 }
 
 h1,h3{

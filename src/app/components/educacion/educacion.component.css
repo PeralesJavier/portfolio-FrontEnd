@@ -4,6 +4,7 @@
 
 div{
     background-color: #353a3f;
+    color: aliceblue;
 }
 #educacion{
     color: aliceblue;
@@ -15,4 +16,8 @@ ul{
 
 h1,h3{
     display: inline;
+}
+
+td{
+    color: aliceblue;
 }

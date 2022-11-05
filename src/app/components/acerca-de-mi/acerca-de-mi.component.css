@@ -17,12 +17,8 @@ h1{
 /*Estilo foto perfil*/
 @media(min-width: 576px){
     #fotoPerfil{
-        position: absolute;
-        width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px rgb(34, 32, 32);
-        left:3%;
-        top: 600px;
     }
 }
 
@@ -34,6 +30,12 @@ h1{
         box-shadow: 3px 3px 3px rgb(34, 32, 32);
         left:33%;
         top: 950px;
+    }
+
+    .descripcion{
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
 

@@ -12,7 +12,8 @@ export const environment = {
     authDomain: 'frontendargportfolio.firebaseapp.com',
     messagingSenderId: '491073052122',
   },
-  production: false
+  production: false,
+  URL: 'http://localhost:8080/'
 };
 
 /*

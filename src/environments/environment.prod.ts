@@ -8,5 +8,6 @@ export const environment = {
     authDomain: 'frontendargportfolio.firebaseapp.com',
     messagingSenderId: '491073052122',
   },
-  production: true
+  production: true,
+  URL: 'https://bkdmyportfolio.herokuapp.com/'
 };
